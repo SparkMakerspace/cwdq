@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cwdq.lol/sitemap.xml
