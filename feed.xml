@@ -3,7 +3,7 @@
     <title>Cheap Websites Done Quick</title>
     <link href="https://cwdq.lol/feed.xml" rel="self" />
     <link href="https://cwdq.lol" />
-    <updated>2022-11-21T21:55:56-05:00</updated>
+    <updated>2022-11-22T01:34:28-05:00</updated>
     <author>
         <name>John Scimone</name>
     </author>
@@ -14,20 +14,20 @@
         <author>
             <name>John Scimone</name>
         </author>
-        <link href="https://cwdq.lol/useful-resources-4/"/>
-        <id>https://cwdq.lol/useful-resources-4/</id>
-        <media:content url="https://cwdq.lol/media/posts/8/elena-rouame-9JU2CKqtw0M-unsplash.jpg" medium="image" />
+        <link href="https://cwdq.lol/useful-resources-5/"/>
+        <id>https://cwdq.lol/useful-resources-5/</id>
+        <media:content url="https://cwdq.lol/media/posts/10/elena-rouame-9JU2CKqtw0M-unsplash.jpg" medium="image" />
 
-        <updated>2022-11-21T21:55:56-05:00</updated>
+        <updated>2022-11-22T01:26:30-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cwdq.lol/media/posts/8/elena-rouame-9JU2CKqtw0M-unsplash.jpg" alt="" />
+                        <img src="https://cwdq.lol/media/posts/10/elena-rouame-9JU2CKqtw0M-unsplash.jpg" alt="" />
                     HTML, CSS, and JavaScript W3Schools Images and Artwork Unsplash
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cwdq.lol/media/posts/8/elena-rouame-9JU2CKqtw0M-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cwdq.lol/media/posts/10/elena-rouame-9JU2CKqtw0M-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="html-css-and-javascript">
       HTML, CSS, and JavaScript
@@ -52,38 +52,50 @@
         </content>
     </entry>
     <entry>
-        <title>More Stuff</title>
+        <title>Get Crafty</title>
+        <author>
+            <name>John Scimone</name>
+        </author>
+        <link href="https://cwdq.lol/get-crafty/"/>
+        <id>https://cwdq.lol/get-crafty/</id>
+
+        <updated>2022-11-22T01:26:15-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Install and Configure Publii</title>
         <author>
             <name>John Scimone</name>
         </author>
         <link href="https://cwdq.lol/more-stuff/"/>
         <id>https://cwdq.lol/more-stuff/</id>
 
-        <updated>2022-11-21T21:55:32-05:00</updated>
+        <updated>2022-11-22T01:25:55-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Other Thing</title>
+        <title>Get a Domain</title>
         <author>
             <name>John Scimone</name>
         </author>
         <link href="https://cwdq.lol/other-thing/"/>
         <id>https://cwdq.lol/other-thing/</id>
 
-        <updated>2022-11-21T21:55:20-05:00</updated>
+        <updated>2022-11-22T01:25:37-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Background</title>
+        <title>Background Info</title>
         <author>
             <name>John Scimone</name>
         </author>
         <link href="https://cwdq.lol/setup/"/>
         <id>https://cwdq.lol/setup/</id>
 
-        <updated>2022-11-21T19:25:00-05:00</updated>
+        <updated>2022-11-22T01:22:52-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -95,21 +107,16 @@
         <link href="https://cwdq.lol/you-too-can-make-a-cheap-website-quickly/"/>
         <id>https://cwdq.lol/you-too-can-make-a-cheap-website-quickly/</id>
 
-        <updated>2022-11-21T19:21:21-05:00</updated>
+        <updated>2022-11-22T01:34:28-05:00</updated>
             <summary>
                 <![CDATA[
-                    All it takes is a few steps to get started, and then you're all set! There's a WYSIWYG editor called Publii that you can install that will allow you to easily create pages to upload to a free* or inexpensive static website hosting services. Let's&hellip;
+                    All it takes is a few steps to get started, and then you're all set! There's a WYSIWYG editor called Publii that you can install that will allow you to easily create pages to upload to a free* or inexpensive static website hosting services. This&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>All it takes is a few steps to get started, and then you're all set! There's a WYSIWYG editor called Publii that you can install that will allow you to easily create pages to upload to a free* or inexpensive static website hosting services. </p>
-<h2>Defined Terms</h2>
-<p>Let's start with some definitions. These terms will help you understand some of the technologies and concepts behind our approach to quickly and cheaply getting a </p>
-<ul style="list-style-type: square;">
-<li> </li>
-</ul>
-<p class="msg msg--info">*Free services usually have a hidden cost. Information about who you are, who you know, how you think, and how you behave is usually collected, analyzed and sold to advertizers so they can better tune their advertizing to hack your brain. If you can afford to pay for a service that you need, you usually should. <a href="https://www.howtogeek.com/730581/what-are-personalized-ads-and-how-do-they-work/" target="_blank" rel="nofollow noopener noreferrer">Read more</a>!</p>
+<p>This site is intended to go along with a live human-lead class at <a href="https://sparkmakerspace.org" rel="nofollow">Spark Makerspace</a>. Students will learn a decent amount about how the world wide web works, get a custom domain (if they want), and build a blog-ish site using free and easy to use open-source tools. </p>
             ]]>
         </content>
     </entry>
