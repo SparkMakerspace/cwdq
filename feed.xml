@@ -3,7 +3,7 @@
     <title>Cheap Websites Done Quick</title>
     <link href="https://cwdq.lol/feed.xml" rel="self" />
     <link href="https://cwdq.lol" />
-    <updated>2022-11-21T18:59:57-05:00</updated>
+    <updated>2022-11-21T21:55:56-05:00</updated>
     <author>
         <name>John Scimone</name>
     </author>
@@ -14,20 +14,20 @@
         <author>
             <name>John Scimone</name>
         </author>
-        <link href="https://cwdq.lol/useful-resources.html"/>
-        <id>https://cwdq.lol/useful-resources.html</id>
-        <media:content url="https://cwdq.lol/media/posts/2/elena-rouame-9JU2CKqtw0M-unsplash.jpg" medium="image" />
+        <link href="https://cwdq.lol/useful-resources-4/"/>
+        <id>https://cwdq.lol/useful-resources-4/</id>
+        <media:content url="https://cwdq.lol/media/posts/8/elena-rouame-9JU2CKqtw0M-unsplash.jpg" medium="image" />
 
-        <updated>2022-11-21T18:59:57-05:00</updated>
+        <updated>2022-11-21T21:55:56-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cwdq.lol/media/posts/2/elena-rouame-9JU2CKqtw0M-unsplash.jpg" alt="" />
+                        <img src="https://cwdq.lol/media/posts/8/elena-rouame-9JU2CKqtw0M-unsplash.jpg" alt="" />
                     HTML, CSS, and JavaScript W3Schools Images and Artwork Unsplash
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cwdq.lol/media/posts/2/elena-rouame-9JU2CKqtw0M-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cwdq.lol/media/posts/8/elena-rouame-9JU2CKqtw0M-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="html-css-and-javascript">
       HTML, CSS, and JavaScript
@@ -52,14 +52,50 @@
         </content>
     </entry>
     <entry>
+        <title>More Stuff</title>
+        <author>
+            <name>John Scimone</name>
+        </author>
+        <link href="https://cwdq.lol/more-stuff/"/>
+        <id>https://cwdq.lol/more-stuff/</id>
+
+        <updated>2022-11-21T21:55:32-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Other Thing</title>
+        <author>
+            <name>John Scimone</name>
+        </author>
+        <link href="https://cwdq.lol/other-thing/"/>
+        <id>https://cwdq.lol/other-thing/</id>
+
+        <updated>2022-11-21T21:55:20-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Background</title>
+        <author>
+            <name>John Scimone</name>
+        </author>
+        <link href="https://cwdq.lol/setup/"/>
+        <id>https://cwdq.lol/setup/</id>
+
+        <updated>2022-11-21T19:25:00-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
         <title>You Too Can Make a Cheap Website Quickly!</title>
         <author>
             <name>John Scimone</name>
         </author>
-        <link href="https://cwdq.lol/you-too-can-make-a-cheap-website-quickly.html"/>
-        <id>https://cwdq.lol/you-too-can-make-a-cheap-website-quickly.html</id>
+        <link href="https://cwdq.lol/you-too-can-make-a-cheap-website-quickly/"/>
+        <id>https://cwdq.lol/you-too-can-make-a-cheap-website-quickly/</id>
 
-        <updated>2022-11-20T19:45:44-05:00</updated>
+        <updated>2022-11-21T19:21:21-05:00</updated>
             <summary>
                 <![CDATA[
                     All it takes is a few steps to get started, and then you're all set! There's a WYSIWYG editor called Publii that you can install that will allow you to easily create pages to upload to a free* or inexpensive static website hosting services. Let's&hellip;
