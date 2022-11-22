@@ -3,12 +3,54 @@
     <title>Cheap Websites Done Quick</title>
     <link href="https://cwdq.lol/feed.xml" rel="self" />
     <link href="https://cwdq.lol" />
-    <updated>2022-11-20T19:45:44-05:00</updated>
+    <updated>2022-11-21T18:59:57-05:00</updated>
     <author>
         <name>John Scimone</name>
     </author>
     <id>https://cwdq.lol</id>
 
+    <entry>
+        <title>Useful Resources</title>
+        <author>
+            <name>John Scimone</name>
+        </author>
+        <link href="https://cwdq.lol/useful-resources.html"/>
+        <id>https://cwdq.lol/useful-resources.html</id>
+        <media:content url="https://cwdq.lol/media/posts/2/elena-rouame-9JU2CKqtw0M-unsplash.jpg" medium="image" />
+
+        <updated>2022-11-21T18:59:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cwdq.lol/media/posts/2/elena-rouame-9JU2CKqtw0M-unsplash.jpg" alt="" />
+                    HTML, CSS, and JavaScript W3Schools Images and Artwork Unsplash
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cwdq.lol/media/posts/2/elena-rouame-9JU2CKqtw0M-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="html-css-and-javascript">
+      HTML, CSS, and JavaScript
+    </h2>
+
+  <ul>
+    <li><a href="https://w3schools.com" target="_blank" rel="nofollow noopener">W3Schools</a></li>
+  </ul>
+
+    <h2 id="images-and-artwork">
+      Images and Artwork
+    </h2>
+
+  <ul>
+    <li><a href="https://unsplash.com" target="_blank" rel="nofollow noopener">Unsplash</a></li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>You Too Can Make a Cheap Website Quickly!</title>
         <author>
@@ -20,7 +62,7 @@
         <updated>2022-11-20T19:45:44-05:00</updated>
             <summary>
                 <![CDATA[
-                    All it takes is a few steps to get started, and then you're all set! There's a WYSIWYG editor called Publii that you&hellip;
+                    All it takes is a few steps to get started, and then you're all set! There's a WYSIWYG editor called Publii that you can install that will allow you to easily create pages to upload to a free* or inexpensive static website hosting services. Let's&hellip;
                 ]]>
             </summary>
         <content type="html">
